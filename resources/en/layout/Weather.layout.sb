@@ -1,0 +1,19 @@
+ <layout mode="Details">
+   <match>
+     Weather(w)
+   </match>
+   <content>
+    <div>
+      <layout-macro id="common:card">
+         <heroText>{{w.city}}</heroText>
+         <heroTextSize>medium</heroTextSize>
+         <imageType>hero</imageType>
+         <image>{{w.picture}}</image>
+         <bodyText>
+           {{w.city +"'s weather is "+ w.forecast+" with temperature of " + w.temperature+ " degress Fahrenheit"}}
+         </bodyText>
+       </layout-macro>
+      <audio>horse.ogg</audio>
+     </div>
+   </content>
+ </layout>

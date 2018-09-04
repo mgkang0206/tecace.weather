@@ -1,0 +1,14 @@
+action (GetWeather) {
+  type(Search)
+  description (Get the weather of the city)
+  collect {
+    input (city) {
+      type (City)
+      min (Required) max (One)
+      default-select{
+        with-learning
+      }
+    }
+  }
+  output (Weather)
+}

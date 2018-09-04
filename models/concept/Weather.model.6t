@@ -1,0 +1,15 @@
+structure (Weather) {
+  description (Weather of the city)
+  property (picture){
+    type (Picture)
+  }
+  property (city){
+    type (City)
+  }
+  property (forecast) {
+    type (Forecast)
+  }
+  property (temperature) {
+    type (Temperature)
+  }
+}

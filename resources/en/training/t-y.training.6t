@@ -1,0 +1,4 @@
+train (t-ykryewvrep2aw70yr40bmqlik) {
+  utterance ("[g:Weather] (New York)[v:City] weather")
+  plan (Y2BmECtJTU5MTtUrT00syUgt0guH0AySaOLuqSUwKWE0KefMkkoGJgZGIGYAkowMIMAEwQA=)
+}

@@ -1,0 +1,11 @@
+endpoints {
+    authorization {
+      none
+    }
+  action-endpoints {
+    action-endpoint (GetWeather) {
+      accepted-inputs (city)
+      local-endpoint (GetWeather.js)
+    }
+  }
+}

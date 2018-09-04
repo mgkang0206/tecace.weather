@@ -1,0 +1,4 @@
+train (t-ecerxm5b0c5uetrzyvegvvi1j) {
+  utterance ("[g:Weather] how's the weather in (New York)[v:City]?")
+  plan (Y2BmECtJTU5MTtUrT00syUgt0guH0AySaOLuqSUwKWE0KefMkkoGJgZGIGYAkowMIMAEwQA=)
+}
