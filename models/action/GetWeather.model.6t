@@ -10,5 +10,17 @@ action (GetWeather) {
       }
     }
   }
-  output (Weather)
+  output (Weather){
+    throws{
+      unknown-error{
+        on-catch{
+          halt{
+            dialog{
+              template ("We cannot find the city. Please try again")
+            }
+          }
+        }
+      }
+    }
+  }
 }

@@ -13,7 +13,6 @@
            {{w.city +"'s weather is "+ w.forecast+" with temperature of " + w.temperature+ " degress Fahrenheit"}}
          </bodyText>
        </layout-macro>
-      <audio>horse.ogg</audio>
      </div>
    </content>
  </layout>
