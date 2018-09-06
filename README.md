@@ -1,13 +1,6 @@
 Building A Bixby Capsule
 ========================
 
-
-Setup Developing Environment
-============================
-
--   Please refer to [Bixby Development
-    Environment](/display/BC/Bixby+Development+Environment)
-
 Create a New Capsule
 ====================
 
