@@ -52,7 +52,7 @@ Create a New Capsule
 Various Factors Building the Capsule
 ====================================
 
-![C:\\04f10eee519b8d2c28b88d2567aa29b2](media/68bdded99d012f1c5957860822c8b938.tmp)
+![capsule structure](tecace.weather/Img/capsule structure.PNG)
 
 -   There are various factors which play roles in a capsule.
 
