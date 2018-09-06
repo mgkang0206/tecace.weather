@@ -190,7 +190,7 @@ References
 Source Code
 ===========
 
--   [Download](/download/attachments/43746766/tecace.weather.zip?version=1&modificationDate=1536090105000&api=v2),
+-   [Download](https://github.com/mgkang0206/tecace.weather/blob/master/tecace.weather.zip),
     unzip and open from IDE by selecting "open existing" button from the
     settings page.
 
