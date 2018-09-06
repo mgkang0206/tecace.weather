@@ -104,9 +104,6 @@ Training
 
 -   A word or a phrase can be linked to an input model(City)
 
--   Only when the capsule has been published(privately/publicly), the Natural
-    Language command can be used.
-
 Capsule Model
 -------------
 
