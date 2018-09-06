@@ -10,7 +10,11 @@
          <imageType>hero</imageType>
          <image>{{w.picture}}</image>
          <bodyText>
+           {{#if exists(w.city) && exists(w.forecast) && exists(w.temperature)}}
            {{w.city +"'s weather is "+ w.forecast+" with temperature of " + w.temperature+ " degress Fahrenheit"}}
+           {{else}}
+           {{"Sorry,some informations are missing."}}
+           {{/if}}   
          </bodyText>
        </layout-macro>
      </div>
