@@ -146,7 +146,7 @@ References
 ==========
 
 -   Please refer to [Bixby Development
-    Environment](/display/BC/Bixby+Development+Environment)
+    Portal](https://bixbydevelopers.com/)
 
 Source Code
 ===========
