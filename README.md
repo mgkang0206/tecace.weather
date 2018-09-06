@@ -1,38 +1,6 @@
 Building A Bixby Capsule
 ========================
 
--   [Setup Developing Environment](#BuildingABixbyCapsule-SetupDevelopingEn)
-
--   [Create a New Capsule](#BuildingABixbyCapsule-CreateaNewCapsule)
-
--   [Various Factors Building the
-    Capsule](#BuildingABixbyCapsule-VariousFactorsBui)
-
-    -   [Concept Models:](#BuildingABixbyCapsule-ConceptModels:)
-
-    -   [Action Model](#BuildingABixbyCapsule-ActionModel)
-
-    -   [Endpoint](#BuildingABixbyCapsule-Endpoint)
-
-    -   [JavaScript Code](#BuildingABixbyCapsule-JavaScriptCode)
-
-    -   [Training](#BuildingABixbyCapsule-Training)
-
-    -   [Capsule Model](#BuildingABixbyCapsule-CapsuleModel)
-
-    -   [Dialog](#BuildingABixbyCapsule-Dialog)
-
-    -   [Layout](#BuildingABixbyCapsule-Layout)
-
-    -   [Simulator](#BuildingABixbyCapsule-Simulator)
-
--   [References](#BuildingABixbyCapsule-References)
-
--   [Source Code](#BuildingABixbyCapsule-SourceCode)
-
-    -   [\*Please note that Bixby Capsule is still in beta phase, and there will
-        be many changes before it is available to the general
-        public.](#BuildingABixbyCapsule-*PleasenotethatBi)
 
 Setup Developing Environment
 ============================
