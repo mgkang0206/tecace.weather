@@ -1,45 +1,6 @@
 Building A Bixby Capsule
 ========================
 
--   [Setup Developing Environment](#BuildingABixbyCapsule-SetupDevelopingEn)
-
--   [Create a New Capsule](#BuildingABixbyCapsule-CreateaNewCapsule)
-
--   [Various Factors Building the
-    Capsule](#BuildingABixbyCapsule-VariousFactorsBui)
-
-    -   [Concept Models:](#BuildingABixbyCapsule-ConceptModels:)
-
-    -   [Action Model](#BuildingABixbyCapsule-ActionModel)
-
-    -   [Endpoint](#BuildingABixbyCapsule-Endpoint)
-
-    -   [JavaScript Code](#BuildingABixbyCapsule-JavaScriptCode)
-
-    -   [Training](#BuildingABixbyCapsule-Training)
-
-    -   [Capsule Model](#BuildingABixbyCapsule-CapsuleModel)
-
-    -   [Dialog](#BuildingABixbyCapsule-Dialog)
-
-    -   [Layout](#BuildingABixbyCapsule-Layout)
-
-    -   [Simulator](#BuildingABixbyCapsule-Simulator)
-
--   [References](#BuildingABixbyCapsule-References)
-
--   [Source Code](#BuildingABixbyCapsule-SourceCode)
-
-    -   [\*Please note that Bixby Capsule is still in beta phase, and there will
-        be many changes before it is available to the general
-        public.](#BuildingABixbyCapsule-*PleasenotethatBi)
-
-Setup Developing Environment
-============================
-
--   Please refer to [Bixby Development
-    Environment](/display/BC/Bixby+Development+Environment)
-
 Create a New Capsule
 ====================
 
@@ -143,9 +104,6 @@ Training
 
 -   A word or a phrase can be linked to an input model(City)
 
--   Only when the capsule has been published(privately/publicly), the Natural
-    Language command can be used.
-
 Capsule Model
 -------------
 
@@ -185,12 +143,12 @@ References
 ==========
 
 -   Please refer to [Bixby Development
-    Environment](/display/BC/Bixby+Development+Environment)
+    Portal](https://bixbydevelopers.com/)
 
 Source Code
 ===========
 
--   [Download](/download/attachments/43746766/tecace.weather.zip?version=1&modificationDate=1536090105000&api=v2),
+-   [Download](https://github.com/mgkang0206/tecace.weather/blob/master/tecace.weather.zip),
     unzip and open from IDE by selecting "open existing" button from the
     settings page.
 
